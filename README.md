@@ -1,7 +1,11 @@
 # Neonatal-mortality-and-maternal-characteristics
 
-Iniciação científica na área de Demografia, investigando a influência das características maternas na mortalidade neonatal através dos sistemas de informação SIM e SINASC do DATASUS.
+Scientific research on demography, investigating maternal features relation to neonatal mortality risk, using data from two DATASUS information systems, SIM and SINASC.
 
-Foram utilizado Python 3.7 (Pandas, Matplotlib, Seaborn), LibreOffice e Google drawings para as visualizações.
+Python 3.7 (Pandas, Matplotlib, Seaborn), LibreOffice e Google drawings were used for visualizations.
 
-O artigo final está linkado acima.
+Final version of the paper is linked above.
+
+This work is part of a greater project run by IFSP and Unicamp for Brazilian Ministry of Health and Gates Foundation.
+
+The project repository is https://github.com/cbeluzo/GCE
